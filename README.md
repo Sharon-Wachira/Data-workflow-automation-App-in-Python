@@ -34,9 +34,6 @@ Choose the following options
 
   The application was tested on data containing Group, CustomerSegment, Sales_Before, Sales_After, Customer_Satisfaction_Before and Customer_Satisfaction_After and Purchase_Made. 
 
- # Installation 
-
- git clone https://github.com/yourusername/your-repository-name.git
 
 
  
