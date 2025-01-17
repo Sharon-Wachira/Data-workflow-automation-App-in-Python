@@ -34,31 +34,6 @@ Choose the following options
 
   The application was tested on data containing Group, CustomerSegment, Sales_Before, Sales_After, Customer_Satisfaction_Before and Customer_Satisfaction_After and Purchase_Made. 
 
-  # Installation 
-  
-Clone the repository 
-
-  git clone https://github.com/yourusername/interactive-data-tool.git
-
-Navigating it 
-
-  cd interactive-data-tool
-
-Install required libraries 
-
-  pip install -r requirements.txt
-
- # Usage
-
-python main.py
-
-  # Future Improvement 
-
-  Adding a feature for user to save the file
-
-  Additional visualizations
-
-  Creating a user app
 
   
 
